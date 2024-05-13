@@ -1,0 +1,3 @@
+{
+	"exeNames": ["@WEBOS_INSTALL_BINDIR@/browser-shell/browser_shell"]
+}
